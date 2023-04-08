@@ -210,5 +210,5 @@ Since the hardware limitation of my laptop, I only trained the model with a few 
 
 ## Discussion and Questions
 
-If you have any question with this tutorial, please feel free to post it to the [GitHub issues page]([https://github.com/cxl07/cxl07.github.io/issues](https://github.com/cl3e8/NeuralCoref-and-Coreference/issues)) and we can talk there!
+If you have any question with this tutorial, please feel free to post it to the [GitHub issues page][(https://github.com/cl3e8/NeuralCoref-and-Coreference/issues)]) and we can talk there!
 
